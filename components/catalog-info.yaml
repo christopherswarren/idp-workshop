@@ -18,7 +18,7 @@ metadata:
 #  labels:
 #    key1: value1
   tags:
-    - christopher.warren@gmfinancial.com
+    - christopherwarren
 spec:
   type: service
   owner: TeamA
