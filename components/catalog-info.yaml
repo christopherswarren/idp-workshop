@@ -18,10 +18,10 @@ metadata:
 #  labels:
 #    key1: value1
   tags:
-    - yournamehere
+    - christopher.warren@gmfinancial.com
 spec:
   type: service
-  owner: CSWDevOpsTeam
+  owner: TeamA
   lifecycle: experimental
 #  system: Demo
 #  dependsOn:
